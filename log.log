@@ -1,0 +1,24 @@
+2023-02-23 19:18:14,405 [+] pydumpck is a multi-threads tool for decompile exe,elf,pyz,pyc packed by python which is base on pycdc and uncompyle6.sometimes its py-file result not exactly right ,maybe could use uncompyle6.
+--------------------
+pydumpck initilizing with 1.15.16 :pyinstaller_dump.py:115-20  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\pyinstaller_dump.py on(pyinstaller_dump.run) at 20092@MainThread  
+2023-02-23 19:18:14,408 [*] plugins loaded with ['pycdc'] :__init__.py:107-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_common_dump\__init__.py on(__init__.load_plugins) at 20092@MainThread  
+2023-02-23 19:18:14,409 [*] target file input:E:\Parallel Education Diploma\Full_EmbeddedLinux_Diploma\1-Python_course\Python Projects\Calculator GUI\dist\stdCalc.exe
+to:output_8095910 :__init__.py:142-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_common_dump\__init__.py on(__init__.main) at 20092@MainThread  
+2023-02-23 19:18:14,410 [*] start dump target file. :__init__.py:155-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_common_dump\__init__.py on(__init__.main) at 20092@MainThread  
+2023-02-23 19:18:17,417 [+] struct file found:b'' :__init__.py:136-20  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_package\package_struct\__init__.py on(__init__.add) at 20092@MainThread  
+2023-02-23 19:18:17,420 [*] 
+export pyc :__init__.py:94-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_package\package_struct\__init__.py on(__init__.progress_check) at 20092@MainThread  
+2023-02-23 19:18:20,482 [*] 
+decompile pyc :__init__.py:96-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_package\package_struct\__init__.py on(__init__.progress_check) at 20092@MainThread  
+2023-02-23 19:20:58,832 [+] pydumpck is a multi-threads tool for decompile exe,elf,pyz,pyc packed by python which is base on pycdc and uncompyle6.sometimes its py-file result not exactly right ,maybe could use uncompyle6.
+--------------------
+pydumpck initilizing with 1.15.16 :pyinstaller_dump.py:115-20  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\pyinstaller_dump.py on(pyinstaller_dump.run) at 10820@MainThread  
+2023-02-23 19:20:58,835 [*] plugins loaded with ['pycdc'] :__init__.py:107-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_common_dump\__init__.py on(__init__.load_plugins) at 10820@MainThread  
+2023-02-23 19:20:58,837 [*] target file input:E:\Parallel Education Diploma\Full_EmbeddedLinux_Diploma\1-Python_course\Python Projects\Calculator GUI\dist\stdCalc.exe
+to:output_2116739 :__init__.py:142-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_common_dump\__init__.py on(__init__.main) at 10820@MainThread  
+2023-02-23 19:20:58,839 [*] start dump target file. :__init__.py:155-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_common_dump\__init__.py on(__init__.main) at 10820@MainThread  
+2023-02-23 19:21:01,862 [+] struct file found:b'' :__init__.py:136-20  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_package\package_struct\__init__.py on(__init__.add) at 10820@MainThread  
+2023-02-23 19:21:01,864 [*] 
+export pyc :__init__.py:94-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_package\package_struct\__init__.py on(__init__.progress_check) at 10820@MainThread  
+2023-02-23 19:21:03,955 [*] 
+decompile pyc :__init__.py:96-10  C:\Users\Ali El Bana\AppData\Local\Programs\Python\Python311\Lib\site-packages\pydumpck\py_package\package_struct\__init__.py on(__init__.progress_check) at 10820@MainThread  
